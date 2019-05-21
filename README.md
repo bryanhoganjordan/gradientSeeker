@@ -34,3 +34,5 @@ QUAD: 2 NEW_CORDS:
 {'leftTopCorner': [782, 336], 'leftBottomCorner': [782, 345], 'rightTopCorner': [800, 336], 'rightBottomCorner': [800, 345]}
 ********************
 ```
+
+![alt text](https://github.com/bryanhoganjordan/gradientSeeker/deeWhyExampleOutput.png)
